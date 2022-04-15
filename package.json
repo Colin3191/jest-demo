@@ -1,0 +1,16 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "jsdom": "^19.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
